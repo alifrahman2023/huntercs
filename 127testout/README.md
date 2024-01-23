@@ -1,3 +1,4 @@
+#127testout
 This is probably the testout that has the most resources given by Hunter. The entire curriculum is on [https://huntercsci127.github.io/f23.html](https://huntercsci127.github.io/f23.html). 
 If you are seeing this years later just change the f23, which means fall 2023, to f{whatever_year} or s{whatever_year} (so for example if you want to look at the website for spring 2027
 the link would be https://huntercsci127.github.io/s27.html).
@@ -5,7 +6,7 @@ the link would be https://huntercsci127.github.io/s27.html).
 If you are familiar with coding but rusty on your Python (like I was) I would not make the same mistake I did and take the course. It was personally boring since I relearned everything 
 very fast.
 
-How I would study for the testout:
+###How I would study for the testout:
 
 0. Register for the testout exam. Search up "Hunter CS testout registration". Follow the instructions there.
 
