@@ -22,4 +22,4 @@ Sometimes, the answer key is wrong (I only saw one question where it was wrong t
 
 4. Practice until you get a 90% or higher on 2 of them. 
 
-5. Take the testout exam. You are allowed to bring a one-page cheat sheet (bring double-sided they don't check). I have one in this repo but feel free to use your own.
+5. Take the testout exam. You are allowed to bring a one-page cheat sheet. I have one in this repo but feel free to use your own.
