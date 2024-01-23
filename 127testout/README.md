@@ -2,19 +2,19 @@ This is probably the testout that has the most resources given by Hunter. The en
 If you are seeing this years later just change the f23, which means fall 2023, to f{whatever_year} or s{whatever_year} (so for example if you want to look at the website for spring 2027
 the link would be https://huntercsci127.github.io/s27.html).
 
-If you are familiar with coding but rusty on your python (like I was) I would not make the same mistake I did and take the course. It was personally boring since I relearned everything 
+If you are familiar with coding but rusty on your Python (like I was) I would not make the same mistake I did and take the course. It was personally boring since I relearned everything 
 very fast.
 
 How I would study for the testout:
 
 0. Register for the testout exam. Search up "Hunter CS testout registration". Follow the instructions there.
 
-1. Watch some basic youtube tutorials on python and gain a basic understanding of the language. This is a [good one](https://www.youtube.com/watch?v=rfscVS0vtbw). Watch at 2x speed and skip
-over obvious stuff. Feel free to pick any other python for begineer tutorial instead.
+1. Watch some basic YouTube tutorials on Python and gain a basic understanding of the language. This is a [good one](https://www.youtube.com/watch?v=rfscVS0vtbw). Watch at 2x speed and skip
+over obvious stuff. Feel free to pick any other Python for beginner tutorials instead.
 
 2. Go to [https://huntercsci127.github.io/f23.html](https://huntercsci127.github.io/f23.html) and look over every lab and learn the libraries well. Also, look at their examples
 since thats the type of code you can expect to see on the test. The hard topics would have to be pandas, numpy + matplotlib.pyplot, MIPS, folium, and c++ (if you are new to the langauge).
-I would study those since those are topics that typically aren't discussed in python for begineer youtube videos.
+I would study those since those are topics that typically aren't discussed in Python for beginner youtube videos.
 
 3. The website also has practice exams and answer keys. If you don't understand a question/it's answer use ChatGPT to explain it to you. Beware, sometimes it uses way more complex code
 than needed or doesn't use the library you want it to use so modify your questions based on that. Sometimes, it gets stuff wrong so just compare with the answer key.
