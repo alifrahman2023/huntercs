@@ -20,4 +20,5 @@ maryash github repo and find tests. [Link to tests on her repo](https://github.c
 4. Practice until you get a 90% or higher on 3 of them (these tests should not take too long, try to do at least 2 a day leading up to the test).
 
 5. Take the testout exam. You are allowed to bring a one-page cheat sheet. I have one in this repo but feel free to use your own. It's double-sided which may technically not be allowed but
-the TA who hosts the room never checks.
+the TA who hosts the room never checks. Also, it has some pretty complex stuff like the filestreams and string tokenization on it that probably won't appear on the test so don't freak out. I
+just added it just in case.
