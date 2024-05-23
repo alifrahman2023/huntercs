@@ -1,9 +1,9 @@
 # 127testout
 This is probably the testout that has the most resources given by Hunter. The entire curriculum is on [https://huntercsci127.github.io/f23.html](https://huntercsci127.github.io/f23.html). 
 If you are seeing this years later just change the f23, which means fall 2023, to f{whatever_year} or s{whatever_year} (so for example if you want to look at the website for spring 2027
-the link would be https://huntercsci127.github.io/s27.html). If they abandon this style of links just search up "Hunter CSCI127 course page" and try to find the most recent one.
+the link would be https://huntercsci127.github.io/s27.html). If they abandon this style of links just search "Hunter CSCI127 course page" and try to find the most recent one.
 
-If you are familiar with coding but rusty on your Python (like I was) I would not make the same mistake I did which was taking the course. Personally, it was boring since I relearned everything very fast.
+If you are familiar with coding but rusty on your Python (like I was) I would not make the same mistake I did which was taking the course. Personally, it was boring since I relearned everything very fast. However, if you are part of Macaulay Honors, the honors recitation for this course is slightly interesting as it focuses on data analysis. Your choice.
 
 ### How I would study for the testout:
 
